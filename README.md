@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Yağız Al </h1>
 
-- 🎓 I'm studying Economics at MEF University. I started two minor degree Computer Engineering, Data Science and Artificial Intelligence.
+- 🎓 I'm studying Economics at MEF University. I started minor degree Data Science and Artificial Intelligence.
 - You can reach me on [aly@mef.edu.tr](mailto:aly@mef.edu.tr)
 
 <h3 align="left">Connect with me</h3>
